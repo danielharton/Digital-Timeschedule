@@ -31,7 +31,7 @@ Digital Timeschedule is a comprehensive, full-stack web application designed to 
 
 ## 📚 Wiki & Documentation
 
-For detailed information on the system architecture, database schema, API endpoints, and frontend components, please refer to our [Wiki](WIKI.md).
+For detailed information on the system architecture, database schema, API endpoints, and frontend components, please refer to our [Wiki](https://github.com/danielharton/Digital-Timeschedule/wiki).
 
 ## ⚙️ Getting Started
 
