@@ -29,6 +29,10 @@ Digital Timeschedule is a comprehensive, full-stack web application designed to 
 - **Vercel Blob Storage**: Cloud-native file storage solution.
 - **Multer, XLSX, Mammoth**: Powerful utilities for processing file uploads and document parsing.
 
+## 📚 Wiki & Documentation
+
+For detailed information on the system architecture, database schema, API endpoints, and frontend components, please refer to our [Wiki](WIKI.md).
+
 ## ⚙️ Getting Started
 
 ### Prerequisites
